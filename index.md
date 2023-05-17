@@ -3,7 +3,7 @@ I setup this blog course **ELEC4630** and to post some progress about what I wil
 And I also want to introduce my family in my homepage (●'◡'●).
 
 ![Image of fast.ai logo](images/logo.png)
-![Image of fast.ai logo](images/family.jpg)
+
 ## Post
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
