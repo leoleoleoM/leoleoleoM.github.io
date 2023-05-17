@@ -9,4 +9,4 @@ Part 1 is always easy to start and next I will deal with animal classification p
 ## Summary
 Github is new to me. As well as *fastai*. 
 ## Reference list
-[How to establish a blog in github](https://www.fast.ai/posts/2020-01-16-fast_template.html/)
+[How to establish a blog in github](https://www.fast.ai/posts/2020-01-16-fast_template.html)
