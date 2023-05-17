@@ -4,6 +4,6 @@ And I also want to introduce my family in my homepage (●'◡'●).
 
 ![Image of fast.ai logo](images/logo.png)
 ![Image of family](images/family.jpg)
-## This is a title
+## This is a titl
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
