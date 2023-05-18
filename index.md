@@ -10,3 +10,5 @@ And I also want to introduce my family in my homepage (●'◡'●). And with AI
 [Practical Deep Learning Course](https://course.fast.ai) 
 
 [Another fastai Practice Course](https://docs.fast.ai)
+
+[Timm fastai Course](https://timm.fast.ai)
