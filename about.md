@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This is a personal blog documenting what I have learned from fastai and assignment progress of  ELEC4630.
 
+Feel free to contact me with the contact information on my homepage.
+
+Peace and Love
