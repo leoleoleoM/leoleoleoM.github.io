@@ -32,4 +32,5 @@ And also we can use t-SNE to evaluate:
 
 ![](/images/tsne.png "t-SNE")
 
-This is to test the result of the model.
+### 5. Further discussion
+In this part I discussed where the errors come from and tried some other possible way to improve the result.
