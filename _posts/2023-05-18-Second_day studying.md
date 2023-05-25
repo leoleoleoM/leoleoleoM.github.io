@@ -16,7 +16,6 @@ The model in this example is a resnet based model. ResNet, short for Residual Ne
 
 The basic structure of resnet can be shown below:
 
-<img width="195" alt="architure" src="https://github.com/leoleoleoM/leoleoleoM.github.io/assets/127401136/8e21f192-4329-4881-b760-b66eb7188f40">
 
 The most significant difference of reenet with other network model is that it has shortcut connections directly between input and output.
 
