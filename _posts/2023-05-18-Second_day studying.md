@@ -14,6 +14,8 @@ The model in this example is a resnet based model. ResNet, short for Residual Ne
 
 [Deep Residual Learning for Image Recognition.](https://ieeexplore-ieee-org.ezproxy.library.uq.edu.au/stamp/stamp.jsp?tp=&arnumber=7780459)
 
+The basic structure of resnet can be shown below:
+
 
 ### 4. Use the trained model
 Use the example image to test whether our model works.
