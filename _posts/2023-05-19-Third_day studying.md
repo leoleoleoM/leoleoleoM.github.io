@@ -20,19 +20,16 @@ First eliminate all the invalid images. And then use **Datablock** method to tra
 
 The following image can show the category after training:
 
+![](/images/animals.png "Animals")
 
+### 4. Evaluate the model
 
-[Deep Residual Learning for Image Recognition.](https://ieeexplore-ieee-org.ezproxy.library.uq.edu.au/stamp/stamp.jsp?tp=&arnumber=7780459)
+First we use confusion matrix to evaluate:
 
-The basic structure of resnet can be shown below:
+![](/images/cm.png "Animals")
 
-![](/images/architure.png "Structure")
+And also we can use t-SNE to evaluate:
 
-The most significant difference of reenet with other network model is that it has shortcut connections directly between input and output.
-
-And in the model we are given example of resnet18, which means it has 18 layers.
-### 4. Use the trained model
-
-Use the example image to test whether our model works.
+![](/images/tsne.png "t-SNE")
 
 This is to test the result of the model.
