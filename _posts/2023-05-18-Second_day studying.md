@@ -10,12 +10,19 @@ The max image number for each category is 200, acceptable here(cost 2mins and 38
 ### 3. Train the model
 Split the data into training set and testing set. And we use **block** which is important in classification. 
 
-The model in this example is a resnet based model. ResNet, short for Residual Network, is a deep convolutional neural network (CNN) architecture that was introduced by Kaiming He et al. in 2015, as the following essay describe:
+The model in this example is a resnet based model. ResNet, short for Residual Network, is a deep convolutional neural network (CNN) architecture that was introduced by Kaiming He et al. in 2015, as the following essay describes:
 
 [Deep Residual Learning for Image Recognition.](https://ieeexplore-ieee-org.ezproxy.library.uq.edu.au/stamp/stamp.jsp?tp=&arnumber=7780459)
 
 The basic structure of resnet can be shown below:
-![Image of structure](images/architure.png)
 
+<img width="195" alt="architure" src="https://github.com/leoleoleoM/leoleoleoM.github.io/assets/127401136/8e21f192-4329-4881-b760-b66eb7188f40">
+
+The most significant difference of reenet with other network model is that it has shortcut connections directly between input and output.
+
+And in the model we are given example of resnet18, which means it has 18 layers.
 ### 4. Use the trained model
+
 Use the example image to test whether our model works.
+
+This is to test the result of the model.
