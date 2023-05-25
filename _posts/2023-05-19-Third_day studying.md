@@ -30,6 +30,10 @@ First we use confusion matrix to evaluate:
 
 And also we can use t-SNE to evaluate:
 
+Also, a very good video explaining how t-SNE works:
+
+
+
 ![](/images/tsne.png "t-SNE")
 
 ### 5. Further discussion
