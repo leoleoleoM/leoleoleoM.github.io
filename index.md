@@ -7,6 +7,7 @@ And I also want to introduce my family in my homepage (●'◡'●). And with AI
 ![Image of fast.ai logo](images/my.png)
 ![Image of fast.ai logo](images/2d.png)
 
+So that AI is so wonderful to process images and how can we start? The following links will help you:
 ## Some useful link for *fastai* to start with:
 [Practical Deep Learning Course](https://course.fast.ai) 
 
