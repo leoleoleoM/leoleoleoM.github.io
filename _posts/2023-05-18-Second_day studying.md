@@ -9,5 +9,11 @@ Download some essential images for `birds` and `non-birds`
 The max image number for each category is 200, acceptable here(cost 2mins and 38s) but if we want to identify 10 different animals, maybe we need to reduce the number.
 ### 3. Train the model
 Split the data into training set and testing set. And we use **block** which is important in classification. 
+
+The model in this example is a resnet based model. ResNet, short for Residual Network, is a deep convolutional neural network (CNN) architecture that was introduced by Kaiming He et al. in 2015, as the following essay describe:
+
+[Deep Residual Learning for Image Recognition.](https://ieeexplore-ieee-org.ezproxy.library.uq.edu.au/stamp/stamp.jsp?tp=&arnumber=7780459)
+
+
 ### 4. Use the trained model
 Use the example image to test whether our model works.
