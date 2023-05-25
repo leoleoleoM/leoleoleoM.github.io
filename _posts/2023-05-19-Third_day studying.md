@@ -32,7 +32,7 @@ And also we can use t-SNE to evaluate:
 
 Also, a very good video explaining how t-SNE works:
 
-
+[How t-SNE works](https://www.fast.ai/posts/2020-01-16-fast_template.html).
 
 ![](/images/tsne.png "t-SNE")
 
