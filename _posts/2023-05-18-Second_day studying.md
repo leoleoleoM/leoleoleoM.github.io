@@ -16,7 +16,8 @@ The model in this example is a resnet based model. ResNet, short for Residual Ne
 
 The basic structure of resnet can be shown below:
 
-![Image of fast.ai logo](images/logo.png)
+![](/images/architure.png "Structure")
+
 The most significant difference of reenet with other network model is that it has shortcut connections directly between input and output.
 
 And in the model we are given example of resnet18, which means it has 18 layers.
